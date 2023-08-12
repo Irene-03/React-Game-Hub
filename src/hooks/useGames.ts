@@ -24,7 +24,8 @@ useData<Game>(
   {
   params: {
      genres: gameQuery.genre?.id,
-     Platforms: gameQuery.platform?.id
+     Platforms: gameQuery.platform?.id,
+     ordering: gameQuery.sortOrder
     }},
      [gameQuery]);
 
