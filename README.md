@@ -10,7 +10,7 @@
 
  
   <p>This project is a Game Hub built using React, TypeScript, vite and chakra-ui. It allows users to search for games and  view game details.</p>
-  <p>GameHub is currently under active development.</p> 
+  <p>"At this juncture, GameHub is undergoing active development.".</p> 
   <img src="https://github.com/arefeh-winter/React-Game-Hub/blob/main/public/Screenshot%20(244).png">
 
 
