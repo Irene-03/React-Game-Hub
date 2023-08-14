@@ -21,7 +21,7 @@
   <h2>Installation</h2>
   <p>To install this project, you need to have Node.js installed on your system. Then, follow these steps:</p>
   <ol>
-    <li>Clone the repository using <code>git clone https://github.com/arefeh-winter/React-Game-Hub.git</code>.</li>
+    <li>Clone the repository using <code>git clone https://github.com/Irene-82/React-Game-Hub.git.</li>
     <li>Change into the project directory using <code>cd React-Game-Hub</code>.</li>
     <li>Install the dependencies using <code>npm install</code>.</li>
     <li>Start the development server using <code>npm run dev</code>.</li>
